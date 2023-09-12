@@ -1,4 +1,7 @@
-# HOLA REPOSITORIO 👋
+# EDICION DE REPOSITORIO👋
+*texto en cursiva*
+_texto en cursiva_
+![Alt](https://i.pinimg.com/originals/95/7f/c1/957fc1d05370489fe519edcb03d75ebc.png)
 
 <!--
 **male02/male02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
