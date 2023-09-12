@@ -1,6 +1,6 @@
 # EDICION DE REPOSITORIO👋
-*texto en cursiva*
-_texto en cursiva_
+*HELLO*
+
 ![Alt](https://i.pinimg.com/originals/95/7f/c1/957fc1d05370489fe519edcb03d75ebc.png)
 
 <!--
